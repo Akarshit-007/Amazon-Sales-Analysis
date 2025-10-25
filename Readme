@@ -1,5 +1,65 @@
-# Amazon Sales Analysis
-Initial commit.
-# Amazon Sales Report Analysis
+# 📊 Amazon Sales Analysis — Internship Project
 
-See `report/Amazon_Sales_Analysis_Report.pdf` and `visuals/` for outputs.
+This project provides a step-by-step analysis of Amazon sales data, aligned with the internship problem statement objectives. The analysis identifies key trends, best-selling products, customer segments, fulfillment efficiency, and geographic performance to generate actionable business insights.
+
+---
+
+## ✅ Project Objectives (as per PDF task)
+1. **Sales Overview** – Analyze overall sales trends and performance.
+2. **Product Analysis** – Identify top-selling categories, sizes, and units sold.
+3. **Fulfillment Analysis** – Compare performance of different fulfillment methods.
+4. **Customer Segmentation** – Group customers based on purchasing behavior.
+5. **Geographical Analysis** – Evaluate sales distribution by state and city.
+6. **Business Insights & Recommendations** – Provide improvement strategies.
+
+---
+
+## 📁 Repository Structure
+
+
+---
+
+## 🛠️ Technologies Used
+| Tool | Purpose |
+|------|---------|
+| Python (Pandas, NumPy) | Data analysis & calculations |
+| Matplotlib | Visualization |
+| Jupyter / Google Colab | Interactive analysis |
+| GitHub | Version control & submission |
+
+---
+
+## 📥 How to Run the Notebook
+1. Clone or download this repository.
+2. Place the dataset inside the `/data` folder with the filename:  
+   🗂️ `Amazon Sale Report.csv`
+3. Open the notebook:  
+   📝 `/notebooks/Amazon_Sales_Analysis_Notebook.ipynb`
+4. Run all cells in order (top to bottom).
+
+---
+
+## 📌 Key Insights (Example Summary)
+✅ Highest-selling product categories were apparel (e.g., T-Shirts & Shirts).  
+✅ Sizes like M, L, XL had highest demand.  
+✅ Amazon Fulfilled orders had higher success rates than Merchant Fulfilled.  
+✅ Majority of sales came from major metropolitan states.  
+✅ Customer segmentation highlighted high-value and low-value groups.
+
+(*These are example insights – see notebook & report for exact results.*)
+
+---
+
+## ✅ Final Report
+A complete summary of findings, visualizations, and recommendations is provided in:  
+📄 `report/Amazon_Sales_Analysis_Report.pdf`
+
+---
+
+## 📬 Author
+👤 **Akarshit Singh**  
+📅 Created as part of an internship project submission.
+
+---
+
+⭐ *If you find this helpful, feel free to ⭐ star the repository.*
